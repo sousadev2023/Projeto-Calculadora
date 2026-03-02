@@ -1,2 +1,2 @@
 # Projeto-Calculadora
-Criando de verentes verções de calculadora
+Criando diferentes verções de calculadora
